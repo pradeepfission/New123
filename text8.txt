@@ -1,0 +1,651 @@
+Hyderabad Bus Routes $(document).ready(function(){ $(document).bind("contextmenu",function(e){ e.preventDefault(); }); }); <!-- .style1 { font-family: Arial, Helvetica, sans-serif; height: auto; } --> 
+
+
+
+
+
+
+
+
+
+Home Bus Route Between Two Stops Passing Through a Stop Select Bus Route Busses Bus List AC Bus List Aero Bus List Bus Pass Counters Other City Bus Routes Chennai Bus Routes Delhi Bus Routes Mumbai City Bus Routes Vizag Bus Routes Vijayawada Bus Routes Live Traffic MMTS Metro Rail Route Map Traffic catchment areas Blog Feedback Disclaimer ch_client = "rameshravuri"; ch_width = 160; ch_height = 600; ch_type = "mpu"; ch_sid = "Chitika Default"; ch_color_site_link = "0000CC"; ch_color_title = "0000CC"; ch_color_border = "FFFFFF"; ch_color_text = "000000"; ch_color_bg = "FFFFFF"; ch_client = "rameshravuri"; ch_width = 550; ch_height = 90; ch_type = "mpu"; ch_sid = "Chitika Default"; ch_color_site_link = "0000CC"; ch_color_title = "0000CC"; ch_color_border = "FFFFFF"; ch_color_text = "000000"; ch_color_bg = "FFFFFF"; Previous | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | Next>> BusNumber Source Destination Upward Downward Frequency First Last First Last Peaktime 
+
+31 
+
+Secunderabad Junction 
+
+KPHB Colony Bus Stop 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+31A 
+
+Secunderabad Junction 
+
+Kukatpally Bus Stop 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+31H 
+
+KPHB Colony Bus Stop 
+
+Secunderabad Junction 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+31P 
+
+Secunderabad Junction 
+
+Sri Sai Nagar Lake 
+
+06:40 
+
+21:10 
+
+07:45 
+
+22:15 
+
+01:10 
+
+31V 
+
+Secunderabad Junction 
+
+Vasanth Nagar Bus Stop 
+
+06:05 
+
+20:28 
+
+07:07 
+
+21:40 
+
+01:05 
+
+31L 
+
+Secunderabad Junction 
+
+KPHB Colony Bus Stop 
+
+06:37 
+
+21:56 
+
+05:50 
+
+23:08 
+
+01:05 
+
+32A 
+
+Secunderabad Junction 
+
+Apuroopa Bus Stop 
+
+07:05 
+
+20:55 
+
+08:10 
+
+22:00 
+
+01:00 
+
+33S 
+
+Secunderabad Junction 
+
+Allwyn Colony Bus Stop 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+33N 
+
+Balaji Nagar bus stop(Balaji Nagar) 
+
+ECIL Bus Stop 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+34 
+
+Secunderabad Junction 
+
+ECIL Bus Stop 
+
+06:50 
+
+21:40 
+
+07:25 
+
+22:15 
+
+00:24 
+
+35A 
+
+A.S.Rao Nagar Bus Stop 
+
+Afzalgunj Bus Stop 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+35 
+
+Apuroopa Bus Stop 
+
+VBIT(Ascendas IT Park) 
+
+06:10 
+
+18:15 
+
+07:20 
+
+19:30 
+
+01:05 
+
+36 
+
+Yousufguda basti Bus Stop 
+
+Secunderabad Junction 
+
+08:00 
+
+18:55 
+
+09:05 
+
+20:00 
+
+02:48 
+
+37 
+
+ECIL Bus Stop 
+
+Secunderabad Junction 
+
+05:15 
+
+23:00 
+
+05:15 
+
+23:00 
+
+00:25 
+
+37AL 
+
+ECIL Bus Stop 
+
+Secunderabad Junction 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37B 
+
+Secunderabad Junction 
+
+Ambedkar Nagar(Kapra) 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37D 
+
+Secunderabad Junction 
+
+Ambedkar Nagar(Kapra) 
+
+05:50 
+
+21:45 
+
+06:00 
+
+20:40 
+
+01:00 
+
+37DL 
+
+Secunderabad Junction 
+
+Ambedkar Nagar(Kapra) 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37E 
+
+Secunderabad Junction 
+
+ECIL Bus Stop 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37H 
+
+Secunderabad Junction 
+
+ECIL Bus Stop 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37S 
+
+Sanikpuri Bus Stop 
+
+Secunderabad Junction 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37N 
+
+ECIL Bus Stop 
+
+Nampally 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37RK 
+
+Ranigunj Bus Stop 
+
+Kushaiguda 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37N/49M 
+
+ECIL Bus Stop 
+
+Mehdipatnam Bus Stop 
+
+07:50 
+
+21:50 
+
+06:35 
+
+23:25 
+
+01:10 
+
+37L/49M 
+
+Rajiv Gruhakalpa Colony 
+
+Mehdipatnam Bus Stop 
+
+05:20 
+
+21:00 
+
+07:00 
+
+22:00 
+
+03:00 
+
+37/250 
+
+Secunderabad Junction 
+
+Secunderabad Junction 
+
+06:35 
+
+20:45 
+
+07:40 
+
+21:20 
+
+00:26 
+
+37S/10F 
+
+ECIL Bus Stop 
+
+Borabanda Bus Stop 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37/47 
+
+ECIL Bus Stop 
+
+Film Nagar 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+37/10K 
+
+ECIL Bus Stop 
+
+Kukatpally Bus Stop 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+38A 
+
+RTC Colony(Moula ali) 
+
+Secunderabad Junction 
+
+06:00 
+
+22:03 
+
+06:19 
+
+22:40 
+
+00:18 
+
+38E 
+
+Secunderabad Junction 
+
+Tukaram Gate 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+38H 
+
+Secunderabad Junction 
+
+Hanumanpet 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+38K 
+
+Koti Bus Stop 
+
+Hanumanpet 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+38LC 
+
+Secunderabad Junction 
+
+ECIL Bus Stop 
+
+07:30 
+
+20:50 
+
+08:20 
+
+21:40 
+
+01:45 
+
+38X 
+
+Secunderabad Junction 
+
+Sangeeth 
+
+04:02 
+
+22:06 
+
+04:27 
+
+22:31 
+
+00:09 
+
+38EX 
+
+Secunderabad Junction 
+
+Secunderabad Junction 
+
+06:00 
+
+23:17 
+
+06:25 
+
+23:42 
+
+00:09 
+
+38S/47V 
+
+Safilguda Bus Stop 
+
+VBIT(Ascendas IT Park) 
+
+07:45 
+
+19:15 
+
+09:00 
+
+20:30 
+
+02:20 
+
+39K 
+
+Koti Bus Stop 
+
+Balanagar Bus Stop 
+
+05:00 
+
+21:40 
+
+06:05 
+
+22:40 
+
+01:45 
+
+40 
+
+Secunderabad Junction 
+
+Koti Bus Stop 
+
+05:20 
+
+22:30 
+
+05:20 
+
+22:30 
+
+00:05 
+
+40D 
+
+Secunderabad Junction 
+
+Dilsukhnagar Bus station 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- Previous | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | Next>> Copy Rights @ 2012 www.hyderabadbusroutes.com All rights reserved hyderabad bus routes
